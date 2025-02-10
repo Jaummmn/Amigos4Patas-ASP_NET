@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Amigos4Patas.props" />
+</Project>

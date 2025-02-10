@@ -1,0 +1,17 @@
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Application\obj\Debug\net8.0\Amigos4Patas.Application.csproj.AssemblyReference.cache
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Application\obj\Debug\net8.0\Amigos4Patas.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Application\obj\Debug\net8.0\Amigos4Patas.Application.AssemblyInfoInputs.cache
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Application\obj\Debug\net8.0\Amigos4Patas.Application.AssemblyInfo.cs
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Application\obj\Debug\net8.0\Amigos4Patas.Application.csproj.CoreCompileInputs.cache
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Application\bin\Debug\net8.0\Amigos4Patas.Application.deps.json
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Application\bin\Debug\net8.0\Amigos4Patas.Application.dll
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Application\bin\Debug\net8.0\Amigos4Patas.Application.pdb
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Application\bin\Debug\net8.0\Amigos4Patas.Domain.dll
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Application\bin\Debug\net8.0\Amigos4Patas.Infrastructure.dll
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Application\bin\Debug\net8.0\Amigos4Patas.Domain.pdb
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Application\bin\Debug\net8.0\Amigos4Patas.Infrastructure.pdb
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Application\obj\Debug\net8.0\Amigos4P.F0D168BA.Up2Date
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Application\obj\Debug\net8.0\Amigos4Patas.Application.dll
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Application\obj\Debug\net8.0\refint\Amigos4Patas.Application.dll
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Application\obj\Debug\net8.0\Amigos4Patas.Application.pdb
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Application\obj\Debug\net8.0\ref\Amigos4Patas.Application.dll

@@ -1,0 +1,12 @@
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Domain\bin\Debug\net8.0\Amigos4Patas.Domain.deps.json
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Domain\bin\Debug\net8.0\Amigos4Patas.Domain.dll
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Domain\bin\Debug\net8.0\Amigos4Patas.Domain.pdb
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Domain\obj\Debug\net8.0\Amigos4Patas.Domain.csproj.AssemblyReference.cache
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Domain\obj\Debug\net8.0\Amigos4Patas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Domain\obj\Debug\net8.0\Amigos4Patas.Domain.AssemblyInfoInputs.cache
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Domain\obj\Debug\net8.0\Amigos4Patas.Domain.AssemblyInfo.cs
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Domain\obj\Debug\net8.0\Amigos4Patas.Domain.csproj.CoreCompileInputs.cache
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Domain\obj\Debug\net8.0\Amigos4Patas.Domain.dll
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Domain\obj\Debug\net8.0\refint\Amigos4Patas.Domain.dll
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Domain\obj\Debug\net8.0\Amigos4Patas.Domain.pdb
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Domain\obj\Debug\net8.0\ref\Amigos4Patas.Domain.dll

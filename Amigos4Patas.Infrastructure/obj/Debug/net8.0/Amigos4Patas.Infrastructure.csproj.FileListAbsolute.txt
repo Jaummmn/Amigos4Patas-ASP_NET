@@ -1,0 +1,17 @@
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Infrastructure\bin\Debug\net8.0\Amigos4Patas.Infrastructure.deps.json
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Infrastructure\bin\Debug\net8.0\Amigos4Patas.Infrastructure.runtimeconfig.json
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Infrastructure\bin\Debug\net8.0\Amigos4Patas.Infrastructure.dll
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Infrastructure\bin\Debug\net8.0\Amigos4Patas.Infrastructure.pdb
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Infrastructure\bin\Debug\net8.0\Amigos4Patas.Domain.dll
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Infrastructure\bin\Debug\net8.0\Amigos4Patas.Domain.pdb
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Infrastructure\obj\Debug\net8.0\Amigos4Patas.Infrastructure.csproj.AssemblyReference.cache
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Infrastructure\obj\Debug\net8.0\Amigos4Patas.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Infrastructure\obj\Debug\net8.0\Amigos4Patas.Infrastructure.AssemblyInfoInputs.cache
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Infrastructure\obj\Debug\net8.0\Amigos4Patas.Infrastructure.AssemblyInfo.cs
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Infrastructure\obj\Debug\net8.0\Amigos4Patas.Infrastructure.csproj.CoreCompileInputs.cache
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Infrastructure\obj\Debug\net8.0\Amigos4P.453049B1.Up2Date
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Infrastructure\obj\Debug\net8.0\Amigos4Patas.Infrastructure.dll
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Infrastructure\obj\Debug\net8.0\refint\Amigos4Patas.Infrastructure.dll
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Infrastructure\obj\Debug\net8.0\Amigos4Patas.Infrastructure.pdb
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Infrastructure\obj\Debug\net8.0\Amigos4Patas.Infrastructure.genruntimeconfig.cache
+F:\programacao\C#\APS.NET\Amigos4Patas\Amigos4Patas.Infrastructure\obj\Debug\net8.0\ref\Amigos4Patas.Infrastructure.dll
